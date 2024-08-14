@@ -1,4 +1,5 @@
 -- Nigger why u tryna take the src
+kick("Check The Top Of The Script And Join The Discord")
 getgenv().Settings = {
     Antilock = true,
     yAxis = -100000,
