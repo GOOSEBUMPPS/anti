@@ -1,5 +1,4 @@
 -- Nigger why u tryna take the src
-local Plr = game
 game.Players.LocalPlayer:kick("Check The Top Of The Script And Join The Discord")
 getgenv().Settings = {
     Antilock = true,
